@@ -7,7 +7,7 @@ https://christiannordfors.github.io/todo-js/
 
 
  ### Notas:
- Reconstruir módulos de Node
+ Reconstruir módulos de Node:
  ```
  npm install
  ```
