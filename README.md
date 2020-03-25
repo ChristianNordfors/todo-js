@@ -2,7 +2,7 @@
 
 ### Link al proyecto:
 ```
-https://christiannordfors.github.io/todo-js/
+(https://christiannordfors.github.io/todo-js/)
 ```
 
 
